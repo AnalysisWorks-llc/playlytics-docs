@@ -1,6 +1,6 @@
 # Tournament Management
 
-Diamond Analytics handles tournament scheduling with support for pool play, bracket games, TBD opponents, and final placement recording.
+Playlytics handles tournament scheduling with support for pool play, bracket games, TBD opponents, and final placement recording.
 
 ## Adding a Tournament
 

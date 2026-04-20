@@ -9,12 +9,12 @@
 
 ## What the Family Sees
 
-The share link opens a read-only version of the report card in any browser — no Diamond Analytics account required. The family sees:
+The share link opens a read-only version of the report card in any browser — no Playlytics account required. The family sees:
 - The same report card layout you see in preview
 - All charts, stats, and coach comments
 - Team branding (team name and sport)
 
-They cannot edit anything, see other players, or access any other part of Diamond Analytics.
+They cannot edit anything, see other players, or access any other part of Playlytics.
 
 ## Link Expiration
 

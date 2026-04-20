@@ -38,4 +38,4 @@ The roster displays alphabetically by last name by default. Drag players to reor
 
 ## Bulk Import
 
-Contact support at support@diamondanalytics.app if you need to bulk-import a roster from a spreadsheet. This is available for Organization plan subscribers setting up multiple teams.
+Contact support at support@playlytics.app if you need to bulk-import a roster from a spreadsheet. This is available for Organization plan subscribers setting up multiple teams.

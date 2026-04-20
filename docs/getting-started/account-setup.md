@@ -2,7 +2,7 @@
 
 ## Sign Up
 
-1. Go to [diamondanalytics.app](https://diamondanalytics.app)
+1. Go to [playlytics.app](https://playlytics.app)
 2. Tap **Get Started** or **Sign Up**
 3. Enter your email address and create a password
 4. Verify your email address
@@ -11,7 +11,7 @@
 
 After signing in you will see two options:
 
-**Create a New Team** — for head coaches setting up Diamond Analytics for their team. You will be assigned the Head Coach role automatically.
+**Create a New Team** — for head coaches setting up Playlytics for their team. You will be assigned the Head Coach role automatically.
 
 **Join an Existing Team** — for coaches, parents, or scorekeepers who received an invitation link from their head coach.
 

@@ -1,8 +1,8 @@
-# Getting Started with Diamond Analytics
+# Getting Started with Playlytics
 
-Diamond Analytics is a player development platform for youth baseball and softball coaches. It captures game and practice data, analyzes player performance, and connects observations to actionable training plans.
+Playlytics is a player development platform for youth baseball and softball coaches. It captures game and practice data, analyzes player performance, and connects observations to actionable training plans.
 
-## What Diamond Analytics Does
+## What Playlytics Does
 
 **During games and practices** — coaches or parent volunteers log pitch locations, at-bat results, fielding plays, and baserunning events in real time. The app structures this raw data into analytics immediately.
 
@@ -12,7 +12,7 @@ Diamond Analytics is a player development platform for youth baseball and softba
 
 ## Quick Start Checklist
 
-1. Create your account at [diamondanalytics.app](https://diamondanalytics.app)
+1. Create your account at [playlytics.app](https://playlytics.app)
 2. Set up your first team — select Baseball or Softball
 3. Add your roster
 4. Choose your subscription plan (30-day free trial on Coach and Organization plans)
@@ -21,7 +21,7 @@ Diamond Analytics is a player development platform for youth baseball and softba
 
 ## Baseball and Softball Support
 
-Diamond Analytics fully supports both baseball and softball. When you create a team you select the sport and the app adjusts automatically:
+Playlytics fully supports both baseball and softball. When you create a team you select the sport and the app adjusts automatically:
 
 - **Softball** uses 60-foot base paths, a pitcher's circle at 43 feet, and softball pitch types (Rise Ball, Drop Ball, Curveball, Changeup, Screwball)
 - **Baseball** uses standard 90-foot base paths and baseball pitch types

@@ -12,7 +12,7 @@ Only the Head Coach can invite new members.
 ## Invite Link Behavior
 
 - Invite links are specific to your team and role
-- The invited person creates a Diamond Analytics account (or logs into an existing one) and is automatically added to your team with the correct role
+- The invited person creates a Playlytics account (or logs into an existing one) and is automatically added to your team with the correct role
 - Links expire after 7 days — generate a new one if needed
 
 ## Recommended Setup for Scorekeeping

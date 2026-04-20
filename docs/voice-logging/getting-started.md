@@ -15,10 +15,10 @@ Firefox has limited voice logging support and is not recommended.
 
 ### Android
 
-1. Install Diamond Analytics to your home screen via Chrome
+1. Install Playlytics to your home screen via Chrome
 2. Go to **Settings → General Management → Keyboard list and default**
 3. Set **Google Voice Typing** as your default input method
-4. Return to Diamond Analytics — the microphone is now always one tap away in the keyboard
+4. Return to Playlytics — the microphone is now always one tap away in the keyboard
 
 ### iOS
 

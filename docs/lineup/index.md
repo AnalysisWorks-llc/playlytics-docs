@@ -1,6 +1,6 @@
 # Lineup Builders
 
-Diamond Analytics includes two lineup builders — Defensive Lineup and Batting Lineup — each using player performance data to make data-driven suggestions.
+Playlytics includes two lineup builders — Defensive Lineup and Batting Lineup — each using player performance data to make data-driven suggestions.
 
 ## Defensive Lineup Builder
 

@@ -1,6 +1,6 @@
 # Scoring Games
 
-Diamond Analytics captures game data through four specialized loggers — Pitching, At-Bat, Fielding, and Baserunning. Each logger is optimized for rapid data entry during live play.
+Playlytics captures game data through four specialized loggers — Pitching, At-Bat, Fielding, and Baserunning. Each logger is optimized for rapid data entry during live play.
 
 ## Starting a Game Session
 

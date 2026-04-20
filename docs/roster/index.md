@@ -2,7 +2,7 @@
 
 ## Overview
 
-Your roster is the foundation of Diamond Analytics. Every stat, analytics chart, and report card is tied to a player on your roster. Keeping your roster accurate and up to date ensures your analytics are meaningful.
+Your roster is the foundation of Playlytics. Every stat, analytics chart, and report card is tied to a player on your roster. Keeping your roster accurate and up to date ensures your analytics are meaningful.
 
 ## Adding Players
 

@@ -2,19 +2,19 @@
 layout: home
 
 hero:
-  name: Diamond Analytics
+  name: Playlytics
   text: Help Center
   tagline: Baseball and softball player analytics for youth coaches
   image:
     src: /logo.png
-    alt: Diamond Analytics
+    alt: Playlytics
   actions:
     - theme: brand
       text: Get Started
       link: /getting-started/
     - theme: alt
       text: View App
-      link: https://diamondanalytics.app
+      link: https://playlytics.app
 
 features:
   - icon: ⚾

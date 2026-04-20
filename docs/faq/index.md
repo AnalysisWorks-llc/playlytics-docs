@@ -2,10 +2,10 @@
 
 ## General
 
-**Does Diamond Analytics work for both baseball and softball?**
+**Does Playlytics work for both baseball and softball?**
 Yes. When you create a team you select Baseball or Softball. The app adjusts field diagrams, pitch types, mechanics assessments, and analytics thresholds automatically. A single subscription covers teams of both sports.
 
-**Can I use Diamond Analytics without a paid subscription?**
+**Can I use Playlytics without a paid subscription?**
 Free accounts can create a team, add players, and enter data using all loggers. Analytics, training plans, report cards, and lineup builders require a paid subscription. This lets you build up a season of data before subscribing.
 
 **Can multiple people log data at the same time?**
@@ -28,7 +28,7 @@ Spanish language support is coming soon.
 ## Analytics
 
 **Why is my ERA showing ERA (6-inn) or ERA (7-inn)?**
-Diamond Analytics uses age-appropriate innings for ERA calculation. 8U–12U teams use 6-inning ERA and 13U and above use 7-inning ERA. See [Understanding ERA](/analytics/era-explained) for details.
+Playlytics uses age-appropriate innings for ERA calculation. 8U–12U teams use 6-inning ERA and 13U and above use 7-inning ERA. See [Understanding ERA](/analytics/era-explained) for details.
 
 **How much data do I need before analytics are meaningful?**
 As a general guide — batting average after 20+ at-bats, ERA after 10+ innings, fielding percentage after 20+ chances, mechanics after 5+ sessions.
@@ -49,7 +49,7 @@ Contact support at support@analysisworks-llc.com within 7 days of a charge for r
 
 ## Technical
 
-**Does Diamond Analytics work offline?**
+**Does Playlytics work offline?**
 The app loads from cache when offline. Data entry requires an internet connection to save. Analytics load from cache if previously viewed.
 
 **Which browsers are supported?**

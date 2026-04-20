@@ -13,7 +13,7 @@ The AI handles all four logger types — pitching, hitting, fielding, and baseru
 
 ## Why Voice Logging
 
-Voice logging solves the volunteer logger problem. A parent who has never used Diamond Analytics can log data accurately by simply describing what they see. No need to learn the app layout or navigate between screens.
+Voice logging solves the volunteer logger problem. A parent who has never used Playlytics can log data accurately by simply describing what they see. No need to learn the app layout or navigate between screens.
 
 Voice logging is especially valuable at practices where repetitions happen faster than manual entry can keep up.
 

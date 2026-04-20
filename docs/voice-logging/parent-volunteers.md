@@ -8,7 +8,7 @@ You are describing baseball plays out loud and the app records them automaticall
 
 ## Getting Set Up
 
-1. Install Diamond Analytics on your phone (your coach will send you an invite link)
+1. Install Playlytics on your phone (your coach will send you an invite link)
 2. Open the app and join your team using the invite link
 3. On Android: set Google Voice Typing as your default keyboard for best results (Settings → General Management → Keyboard list and default)
 

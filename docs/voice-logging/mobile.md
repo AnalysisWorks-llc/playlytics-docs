@@ -38,7 +38,7 @@ No setup required. Safari handles voice input natively.
 Confirm Google Voice Typing is set as your default keyboard. Some Android manufacturers use a custom keyboard as default — Google Voice Typing must be set explicitly.
 
 **App asks for microphone permission**
-Tap Allow. If you denied it previously go to **Settings → Apps → Diamond Analytics → Permissions → Microphone → Allow**.
+Tap Allow. If you denied it previously go to **Settings → Apps → Playlytics → Permissions → Microphone → Allow**.
 
 **Safari blocks microphone on iOS**
 Go to **Settings → Safari → Microphone** and ensure it is set to Ask or Allow.

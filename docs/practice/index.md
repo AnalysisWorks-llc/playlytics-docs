@@ -1,6 +1,6 @@
 # Practice Sessions
 
-Diamond Analytics supports two practice session types: Team Practice and Individual Practice. Practice data flows into the same analytics as game data and can be filtered separately using the event type filter.
+Playlytics supports two practice session types: Team Practice and Individual Practice. Practice data flows into the same analytics as game data and can be filtered separately using the event type filter.
 
 ## Session Types
 

@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Diamond Analytics',
-  description: 'Help and documentation for Diamond Analytics — baseball and softball player analytics',
+  title: 'Playlytics',
+  description: 'Help and documentation for Playlytics — baseball and softball player analytics',
   base: '/',
   srcDir: './docs',
 
@@ -13,37 +13,26 @@ export default defineConfig({
 
   themeConfig: {
     logo: '/logo.png',
-    siteTitle: 'Diamond Analytics Help',
+    siteTitle: 'Playlytics Help',
 
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Getting Started', link: '/getting-started/' },
-      {
-        text: 'Scoring & Logging',
-        items: [
-          { text: 'Scoring Games', link: '/scoring-games/' },
-          { text: 'Voice Logging', link: '/voice-logging/' }
-        ]
-      },
+      { text: 'Scoring Games', link: '/scoring-games/' },
+      { text: 'Voice Logging', link: '/voice-logging/' },
       { text: 'Analytics', link: '/analytics/' },
-      {
-        text: 'Development',
-        items: [
-          { text: 'Training Plans', link: '/training/' },
-          { text: 'Coach Notes', link: '/coach-notes/' },
-          { text: 'Report Cards', link: '/report-cards/' }
-        ]
-      },
+      { text: 'Training Plans', link: '/training/' },
+      { text: 'Coach Notes', link: '/coach-notes/' },
+      { text: 'Report Cards', link: '/report-cards/' },
+      { text: 'Schedule', link: '/schedule/' },
       {
         text: 'More',
         items: [
-          { text: 'Roster', link: '/roster/' },
-          { text: 'Schedule & Tournaments', link: '/schedule/' },
           { text: 'Lineup Builders', link: '/lineup/' },
           { text: 'FAQ', link: '/faq/' }
         ]
       },
-      { text: 'diamondanalytics.app', link: 'https://diamondanalytics.app' }
+      { text: 'playlytics.app', link: 'https://playlytics.app' }
     ],
 
     sidebar: {
@@ -197,7 +186,7 @@ export default defineConfig({
 
     footer: {
       message: 'Baseball and softball analytics for youth coaches',
-      copyright: 'Copyright © 2026 Diamond Analytics — AnalysisWorks LLC'
+      copyright: 'Copyright © 2026 Playlytics — AnalysisWorks LLC'
     },
 
     search: {

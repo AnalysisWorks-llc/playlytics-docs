@@ -1,6 +1,6 @@
 # Analytics Overview
 
-Diamond Analytics turns raw game and practice data into visual analytics that coaches can act on. Analytics are available for all four areas of the game plus mechanics assessments.
+Playlytics turns raw game and practice data into visual analytics that coaches can act on. Analytics are available for all four areas of the game plus mechanics assessments.
 
 ## Accessing Analytics
 

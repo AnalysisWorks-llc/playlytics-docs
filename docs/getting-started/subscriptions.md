@@ -1,6 +1,6 @@
 # Subscription Plans
 
-Diamond Analytics offers three subscription tiers.
+Playlytics offers three subscription tiers.
 
 ## Plan Comparison
 
@@ -21,7 +21,7 @@ Diamond Analytics offers three subscription tiers.
 
 ## Player Plan
 
-Designed for parents tracking their own child's development. Up to 5 player profiles with full analytics, training suggestions, and report cards. No team features — if your coach uses Diamond Analytics their team subscription covers team-level access.
+Designed for parents tracking their own child's development. Up to 5 player profiles with full analytics, training suggestions, and report cards. No team features — if your coach uses Playlytics their team subscription covers team-level access.
 
 ## Coach Plan
 

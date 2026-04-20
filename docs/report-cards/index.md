@@ -24,7 +24,7 @@ Player report cards compile a player's stats, analytics charts, mechanics assess
 ## Sharing with Families
 
 Tap **Share** to generate a shareable link. The link:
-- Works for anyone — no Diamond Analytics account required
+- Works for anyone — no Playlytics account required
 - Expires after 30 days
 - Shows a read-only version of the report card
 - Can be shared via text, email, or any messaging app

@@ -1,4 +1,4 @@
-# Understanding ERA in Diamond Analytics
+# Understanding ERA in Playlytics
 
 ## What is ERA?
 
@@ -10,7 +10,7 @@ ERA = (Earned Runs ÷ Innings Pitched) × Game Innings
 
 ## Age-Appropriate Calculation
 
-Diamond Analytics adjusts ERA based on your team level because youth games use fewer innings than professional baseball:
+Playlytics adjusts ERA based on your team level because youth games use fewer innings than professional baseball:
 
 | Level | Game Innings | ERA Formula |
 |-------|-------------|-------------|
