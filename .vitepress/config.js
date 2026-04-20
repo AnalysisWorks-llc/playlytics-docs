@@ -7,8 +7,8 @@ export default defineConfig({
   srcDir: './docs',
 
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'theme-color', content: '#6366f1' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['meta', { name: 'theme-color', content: '#243E63' }]
   ],
 
   themeConfig: {
