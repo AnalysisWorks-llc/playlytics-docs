@@ -64,4 +64,16 @@ features:
     details: Build and maintain your roster, manage player profiles and positions, and control team access for coaches and parents.
     link: /roster/
     linkText: Learn more
+
+  - icon: 🔭
+    title: Opponent Scouting Reports
+    details: Generate AI-powered pre-game scouting reports. Share a research prompt to Gemini or Copilot for free, or use the full in-app report that combines external research with your logged game analytics.
+    link: /scouting/
+    linkText: Learn more
+
+  - icon: 📋
+    title: Lineup Builders
+    details: Build data-driven defensive alignments and batting orders. The defensive builder suggests positions based on fielding percentage and ERA. The batting order builder uses OBP, power, and speed metrics with drag-and-drop reordering.
+    link: /lineup/
+    linkText: Learn more
 ---

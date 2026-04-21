@@ -1,41 +1,82 @@
 # Lineup Builders
 
-Playlytics includes two lineup builders — Defensive Lineup and Batting Lineup — each using player performance data to make data-driven suggestions.
+## Overview
+
+Playlytics includes two lineup builders — Defensive Lineup and Batting Order — both using your logged player analytics to make data-driven suggestions.
+
+## Accessing Lineup Builders
+
+Navigate to **More** in the bottom navigation → **Lineups** → select Defensive Lineup or Batting Order.
 
 ## Defensive Lineup Builder
 
-The defensive lineup builder suggests optimal defensive alignments based on each player's fielding percentage at each position.
+The defensive lineup builder suggests optimal fielding alignments based on each player's fielding percentage at each position and ERA for pitchers.
 
-**How it works:**
-1. Navigate to **Lineups → Defensive Lineup**
-2. The algorithm fills positions using a priority spine: C → P → SS → 2B → 3B → 1B → CF → LF → RF
-3. Players are placed at their strongest position based on FLD% data
-4. Override any position by tapping it and selecting a different player
-5. Locked manual selections are preserved when the lineup auto-updates
+### How it works
 
-**Reading the suggestion:**
-Each position shows the suggested player with their FLD% at that position. The overall defensive grade updates as you make changes.
+1. Navigate to Lineups → Defensive Lineup
+2. Tap **Auto-Suggest** to fill all positions automatically
+3. The algorithm fills positions using this priority order:
+   - Pitcher — selected by lowest ERA (not fielding percentage)
+   - Catcher — highest FLD% at C
+   - Shortstop — highest FLD% at SS
+   - Second Base, Third Base, First Base
+   - Center Field, Left Field, Right Field
+4. Override any position by tapping the player name → select a different player
+5. Tap **Clear All** to reset and start fresh
 
-**Availability tracking:**
-Mark players as unavailable before building the lineup. Reasons include injury, absence, rest, pitch count limit, or other. Unavailable players are excluded from suggestions.
+### Reading the position cards
 
-## Batting Lineup Builder
+Each assigned position card shows:
+- **Player name and jersey number** — tap to change the assignment
+- **Fielding %** — color coded green (≥90%), amber (75-89%), red (<75%)
+- **Throwing %** — same color coding
+- **📊 chart** — tap to view full polar accuracy charts for this player at this position
 
-The batting lineup builder suggests batting order based on OBP (leadoff), power, and speed metrics.
+For the **pitcher position** the card shows ERA and strikeout rate instead of fielding stats — tap the chart icon to view the pitching heat map.
 
-**How it works:**
-1. Navigate to **Lineups → Batting Lineup**
-2. The algorithm places the highest OBP player in the leadoff spot
-3. Remaining spots are filled based on a balance of power and contact metrics
-4. Drag and drop players to reorder the lineup
-5. The stat comparison panel shows key metrics for each player
+### Pitcher selection
 
-**Sparklines:**
-Each player card shows a mini trend chart of recent at-bat results — a quick visual of current form.
+The pitcher slot is filled based on ERA not fielding percentage. The player with the lowest ERA among available pitchers is suggested. Age-appropriate ERA thresholds apply based on your team level.
 
-**Saving lineups:**
-Save any lineup configuration for future reference. Saved lineups appear in your lineup history.
+### Mobile layout
 
-## Combined Game Day Card
+On mobile the field diagram adjusts spacing automatically to prevent position card overlap. The spatial relationship of the positions is maintained — outfield at top, infield in middle, battery at bottom.
 
-The Game Day view shows both the defensive alignment and batting lineup on one screen that can be shared via the Web Share API or copied for printing.
+### Availability tracking
+
+Mark players as unavailable before building the lineup. Tap a player → Mark Unavailable → select a reason (injury, absence, rest, pitch count limit). Unavailable players are excluded from auto-suggestions.
+
+## Batting Order Builder
+
+The batting order builder suggests batting order based on OBP, power, and speed metrics.
+
+### How it works
+
+1. Navigate to Lineups → Batting Order
+2. The algorithm places players based on:
+   - **Leadoff** — highest OBP player
+   - **2-3 spots** — high contact, good OBP
+   - **Cleanup and 5** — highest power metrics
+   - **6-9** — balanced contact and speed
+3. Drag and drop players to reorder
+4. Each player card shows a sparkline of recent at-bat results
+
+### Sparklines
+
+The mini trend chart on each player card shows recent performance at a glance — a quick visual of current form before you commit to a batting order.
+
+### Saving lineups
+
+Tap **Save Lineup** to store the configuration. Saved lineups appear in your lineup history and can be recalled for future games.
+
+### Game Day card
+
+The Game Day view combines the defensive alignment and batting order on one screen that can be shared with assistant coaches via the Share button.
+
+## Tips for Best Results
+
+- **Log more data** — lineup suggestions improve significantly with more game data. After 20+ at-bats batting order recommendations become statistically meaningful
+- **Use availability tracking** — mark injured or resting players before auto-suggest to get realistic lineup recommendations
+- **Override freely** — the suggestions are a starting point. Your coaching knowledge of matchups and situational factors should always have the final say
+- **Check the polar charts** — tap 📊 on any position card to see detailed fielding zone accuracy before making defensive assignments

@@ -25,10 +25,12 @@ export default defineConfig({
       { text: 'Coach Notes', link: '/coach-notes/' },
       { text: 'Report Cards', link: '/report-cards/' },
       { text: 'Schedule', link: '/schedule/' },
+      { text: 'Scouting', link: '/scouting/' },
       {
         text: 'More',
         items: [
           { text: 'Lineup Builders', link: '/lineup/' },
+          { text: 'Scouting Reports', link: '/scouting/' },
           { text: 'FAQ', link: '/faq/' }
         ]
       },
@@ -166,6 +168,14 @@ export default defineConfig({
             { text: 'Generating report cards', link: '/report-cards/generating' },
             { text: 'Sharing with families', link: '/report-cards/sharing' },
             { text: 'PDF export', link: '/report-cards/pdf-export' }
+          ]
+        }
+      ],
+      '/scouting/': [
+        {
+          text: 'Scouting Reports',
+          items: [
+            { text: 'Overview', link: '/scouting/' },
           ]
         }
       ],
