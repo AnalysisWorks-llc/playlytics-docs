@@ -29,6 +29,34 @@ The level you select affects ERA calculation:
 
 Select the level that matches your team's actual game format.
 
+## Team Communication Link
+
+Connect your existing group chat so your team can access it directly from Playlytics.
+
+1. Navigate to **Settings → Team Settings**
+2. Scroll to **Team Communication**
+3. Paste your group chat invite link
+4. Tap **Save**
+
+The chat link appears as a **💬 Chat** button on your dashboard, schedule, game hub, and roster screens. Tapping it opens your group chat directly.
+
+**Supported platforms:**
+- GroupMe
+- Band
+- WhatsApp
+- TeamSnap
+- Remind
+- Slack
+- Any other group chat with a shareable link
+
+The button label automatically shows the platform name — a GroupMe link shows **💬 GroupMe**, a Band link shows **💬 Band**, and so on.
+
+**Who can set the link:**
+Only the Head Coach can add or update the team communication link. All team members — coaches, parents, and players — can tap the button to open the chat.
+
+**During onboarding:**
+When setting up a new team you will be prompted to add your group chat link as an optional final step. You can also add or update it at any time through team settings.
+
 ## Multiple Teams
 
 The **Coach** subscription supports one team. The **Organization** subscription supports up to five teams. Switch between active teams using the team selector in the app header or on the dashboard.
