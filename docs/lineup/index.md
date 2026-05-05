@@ -74,6 +74,12 @@ Tap **Save Lineup** to store the configuration. Saved lineups appear in your lin
 
 The Game Day view combines the defensive alignment and batting order on one screen that can be shared with assistant coaches via the Share button.
 
+## Playing Time Manager
+
+The Playing Time Manager is a separate tool designed for recreational league coaches who need to track mandatory playing time requirements.
+
+→ [Full Playing Time Manager documentation](/lineup/playing-time)
+
 ## Tips for Best Results
 
 - **Log more data** — lineup suggestions improve significantly with more game data. After 20+ at-bats batting order recommendations become statistically meaningful

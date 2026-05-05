@@ -76,4 +76,10 @@ features:
     details: Build data-driven defensive alignments and batting orders. The defensive builder suggests positions based on fielding percentage and ERA. The batting order builder uses OBP, power, and speed metrics with drag-and-drop reordering.
     link: /lineup/
     linkText: Learn more
+
+  - icon: ⏱
+    title: Playing Time Manager
+    details: Track mandatory playing time requirements for recreational leagues. Plan your full lineup rotation before the game, get real-time at-risk alerts, and share a compliance summary at the end of every game.
+    link: /lineup/playing-time
+    linkText: Learn more
 ---

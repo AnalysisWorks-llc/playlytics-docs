@@ -141,11 +141,12 @@ export default defineConfig({
       ],
       '/lineup/': [
         {
-          text: 'Lineup Builders',
+          text: 'Lineup Tools',
           items: [
             { text: 'Overview', link: '/lineup/' },
             { text: 'Defensive lineup builder', link: '/lineup/defensive' },
-            { text: 'Batting lineup builder', link: '/lineup/batting' }
+            { text: 'Batting lineup builder', link: '/lineup/batting' },
+            { text: 'Playing Time Manager', link: '/lineup/playing-time' }
           ]
         }
       ],
