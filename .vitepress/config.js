@@ -31,6 +31,7 @@ export default defineConfig({
         items: [
           { text: 'Lineup Builders', link: '/lineup/' },
           { text: 'Scouting Reports', link: '/scouting/' },
+          { text: 'Import from GameChanger', link: '/import/' },
           { text: 'FAQ', link: '/faq/' }
         ]
       },
@@ -177,6 +178,14 @@ export default defineConfig({
           text: 'Scouting Reports',
           items: [
             { text: 'Overview', link: '/scouting/' },
+          ]
+        }
+      ],
+      '/import/': [
+        {
+          text: 'Data Import',
+          items: [
+            { text: 'Import from GameChanger', link: '/import/' }
           ]
         }
       ],

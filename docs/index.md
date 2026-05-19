@@ -82,4 +82,10 @@ features:
     details: Track mandatory playing time requirements for recreational leagues. Plan your full lineup rotation before the game, get real-time at-risk alerts, and share a compliance summary at the end of every game.
     link: /lineup/playing-time
     linkText: Learn more
+
+  - icon: 📥
+    title: GameChanger Import
+    details: Import your existing roster and season stats from a GameChanger CSV export. Batting, pitching, and fielding stats combine automatically with your Playlytics game logs — no double-counting.
+    link: /import/
+    linkText: Learn more
 ---

@@ -15,10 +15,11 @@ Playlytics is a player development platform for youth baseball and softball coac
 1. Create your account at [playlytics.app](https://playlytics.app)
 2. Set up your first team — select Baseball or Softball
 3. Add your roster
-4. **Add your group chat link** — connect GroupMe, Band, or WhatsApp
-5. Choose your subscription plan (30-day free trial on Coach and Organization plans)
-6. Install the app on your phone
-7. Score your first game or practice
+4. **Already using GameChanger?** Import your existing stats via Settings → Import from GameChanger before logging your first game — [full instructions here](/import/)
+5. **Add your group chat link** — connect GroupMe, Band, or WhatsApp
+6. Choose your subscription plan (30-day free trial on Coach and Organization plans)
+7. Install the app on your phone
+8. Score your first game or practice
 
 ## Baseball and Softball Support
 
