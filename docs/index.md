@@ -83,6 +83,12 @@ features:
     link: /lineup/playing-time
     linkText: Learn more
 
+  - icon: 📊
+    title: Quality At-Bat Tracking
+    details: Go beyond batting average. Track plate discipline, hard contact, and situational hitting with age-appropriate QAB% goals and automatic training suggestions.
+    link: /analytics/quality-at-bats
+    linkText: Learn more
+
   - icon: 📥
     title: GameChanger Import
     details: Import your existing roster and season stats from a GameChanger CSV export. Batting, pitching, and fielding stats combine automatically with your Playlytics game logs — no double-counting.

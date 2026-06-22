@@ -28,6 +28,48 @@ The export must be done from the GameChanger website — not the mobile app. The
 
 The import is completed entirely on your device — no server processing required. Most imports complete in seconds.
 
+## Assigning Dates to Your Import
+
+GameChanger CSV exports do not include dates or opponent information. Before importing, Playlytics asks you to assign dates so your stats filter correctly by time period.
+
+You have two options:
+
+### Option 1 — Link to a Scheduled Game
+
+If the games are already in your Playlytics schedule, select them directly:
+
+1. Choose **Link to scheduled game(s)**
+2. Select one or more games from your schedule — tap to select multiple
+3. Playlytics automatically uses the game date and opponent name from your schedule
+
+This is the most accurate option when your games are already scheduled in Playlytics.
+
+### Option 2 — Assign a Date Range
+
+If the games are not in your schedule, or you are importing a broader period like a full season:
+
+1. Choose **Assign a date range**
+2. Enter a **From date** and **Through date**
+3. Use the quick shortcuts for common periods:
+   - **Today** — both dates set to today
+   - **Yesterday** — both dates set to yesterday
+   - **Last weekend** — automatically sets Saturday through Sunday
+   - **This season** — January 1 through today
+
+For a single game, enter the same date for both fields. For a tournament weekend, enter the start and end dates of the tournament.
+
+### Players with Zero Games
+
+GameChanger exports include every roster player, even those who did not appear in the selected games. Players with GP (Games Played) of 0 are automatically skipped during import — only players who actually played are imported.
+
+### Why Dates Matter
+
+Once a date or game is assigned, your imported stats will correctly appear or disappear when you use date range filters on analytics screens. Without an assigned date, imported stats only appear in the **All** and **Game** filters and are excluded whenever a specific date range filter is active.
+
+### Multiple Imports
+
+You can import from GameChanger multiple times throughout the season — for example, after each tournament weekend. Each import is stored separately by its assigned dates or linked games, so your stats accumulate correctly without duplication.
+
 ## Roster Matching
 
 Playlytics automatically matches GameChanger players to your existing Playlytics roster using a priority system:

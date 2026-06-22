@@ -98,6 +98,7 @@ export default defineConfig({
             { text: 'Overview', link: '/analytics/' },
             { text: 'Pitching analytics', link: '/analytics/pitching' },
             { text: 'Hitting analytics', link: '/analytics/hitting' },
+            { text: 'Quality At-Bats', link: '/analytics/quality-at-bats' },
             { text: 'Fielding analytics', link: '/analytics/fielding' },
             { text: 'Baserunning analytics', link: '/analytics/baserunning' },
             { text: 'Mechanics assessments', link: '/analytics/mechanics' },
