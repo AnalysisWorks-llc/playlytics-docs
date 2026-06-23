@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Playlytics
   text: Help Center
-  tagline: Baseball and softball player analytics for youth coaches
+  tagline: Baseball and softball player development for youth coaches
   image:
     src: /logo.png
     alt: Playlytics
