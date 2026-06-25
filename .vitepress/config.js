@@ -29,6 +29,7 @@ export default defineConfig({
       {
         text: 'More',
         items: [
+          { text: 'Organization Management', link: '/organization/' },
           { text: 'Lineup Builders', link: '/lineup/' },
           { text: 'Scouting Reports', link: '/scouting/' },
           { text: 'Import from GameChanger', link: '/import/' },
@@ -179,6 +180,14 @@ export default defineConfig({
           text: 'Scouting Reports',
           items: [
             { text: 'Overview', link: '/scouting/' },
+          ]
+        }
+      ],
+      '/organization/': [
+        {
+          text: 'Organization Management',
+          items: [
+            { text: 'Overview', link: '/organization/' }
           ]
         }
       ],
