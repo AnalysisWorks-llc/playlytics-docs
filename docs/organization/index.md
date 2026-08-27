@@ -2,61 +2,64 @@
 
 ## Overview
 
-Coaches managing multiple teams can view and administer all of them from a single Organization dashboard. Assign head coaches, track team status, and manage user access across every team in your organization — without switching between accounts.
+The Organization Dashboard gives you a single command center for every team in your organization. View season records, manage head coaches, jump directly into any team's tools, and monitor analytics and schedules across all teams — without switching accounts.
 
 Organization Management is available to Head Coaches and Org Admins on **Organization** and **Enterprise** subscription plans.
 
-## Accessing Organization Management
+## Accessing the Dashboard
 
-Navigate to **Settings → Manage Organization**. This option appears when your account is on an Organization or Enterprise plan and you are the Head Coach or Org Admin for the organization.
+Navigate to **Organization** in the main nav. The dashboard loads all teams in your organization automatically.
 
-## The Organization Dashboard
+## Team Cards
 
-The dashboard lists all active teams in your organization. Each team card shows:
+Each team has its own card showing everything you need at a glance:
 
-- **Team name and season year**
-- **Head Coach** — the assigned head coach for that team, or *No head coach assigned* if none has been set
-- **Invite HC / Assign HC** — send a head coach invite for that team
-- **Manage Users** — open the full user management screen for that team
+**Team name and record** — the team's season Win-Loss (and Tie) record is displayed in the top-right corner of each card, calculated from all scored games.
 
-## Assigning a Head Coach to a Team
+**Level and sport** — shown beneath the team name when set on the team profile.
 
-Each team should have a Head Coach responsible for managing that team's roster, games, and analytics.
+**Head coach row** — shows the assigned head coach in green. If no head coach is assigned the row displays in amber with an **Invite HC** button.
 
-1. On the Organization dashboard find the team card
-2. Tap **Assign HC** (or **Invite HC** if a coach is already assigned)
+**Quick actions** — six buttons that take you directly into that team's tools, automatically switching your active team:
+
+| Button | Destination |
+|---|---|
+| Dashboard | Team analytics dashboard |
+| Roster | Player roster and profiles |
+| Schedule | Game schedule and practices |
+| Analytics | Full team and player analytics |
+| Log Data | Start a game or practice session |
+| Notes | Coach notes for that team |
+
+## Head Coach Assignment
+
+Every team should have at least one Head Coach responsible for managing its roster, games, and analytics.
+
+**If no head coach is assigned:**
+1. Find the team card — the HC row will be amber with "No head coach assigned"
+2. Tap **Invite HC**
 3. Enter the coach's email address and optional full name
-4. Tap **Create invite** — a 7-day invite link is generated
+4. Tap **Create invite** — a 7-day invite link is generated and displayed
 5. Copy and share the link with the coach
-6. When the coach accepts the invite they are added to that team as Head Coach
+6. When the coach accepts they are added to that team as Head Coach
 
-### Multiple head coaches per team
+**If a head coach is already assigned:**
+The HC row shows their name in green. To add another head coach or change roles, use **Manage Users**.
 
-A team can have more than one Head Coach. Sending an additional invite does not replace the existing head coach — both users retain full head coach access on that team.
+A team can have more than one Head Coach — sending an additional invite does not remove the existing one.
 
-### Head Coach permissions
+## Managing Users
 
-A Head Coach on any team can:
-- Manage that team's roster and players
-- Invite and manage other team users (including assigning new head coaches)
-- Log games and score plays
-- View all team analytics and report cards
-- Edit team settings
-
-## Managing Users on a Team
-
-Tap **Manage Users** on any team card to open the full user management screen for that team. From there you can:
+**Manage Users** appears on every team card regardless of HC status. Tap it to open the full user management screen for that team, where you can:
 
 - View all current members and their roles
-- Change a user's role — including assigning Head Coach to an existing member
+- Change a user's role — including promoting an existing member to Head Coach
 - Remove a user from the team
-- Send new invites for any role
+- Send new invites for any role (Head Coach, Assistant Coach, Scorekeeper, Parent, Player)
 
-Tap **Organization** in the back button to return to the Organization dashboard.
+## Adding a Team
 
-## Adding a New Team
-
-Tap **Add Team** from the Organization dashboard to create a new team under your organization. New teams are added to your organization automatically and appear on the dashboard immediately.
+Tap **+ Add Team** at the bottom of the dashboard to create a new team under your organization. The new team appears on the dashboard immediately.
 
 ## Plan Comparison
 
@@ -66,6 +69,7 @@ Tap **Add Team** from the Organization dashboard to create a new team under your
 | Players per team | Unlimited | Unlimited |
 | Organization dashboard | ✓ | ✓ |
 | Head coach assignment | ✓ | ✓ |
+| AI coach notes/month | 200 | 500 |
 | Voice logs/month | 2,000 | 5,000 |
 | Scouting reports/month | 60 | 100 |
 
