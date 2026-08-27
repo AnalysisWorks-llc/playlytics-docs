@@ -2,7 +2,11 @@
 
 ## Overview
 
-The Schedule screen tracks your upcoming and completed games and tournaments. Pre-scheduling games connects them to game sessions so you avoid duplicate data entry.
+The Schedule screen has three tabs: **Games**, **Tournaments**, and **Practices**.
+
+- **Games** — track upcoming and completed games and scrimmages. Pre-scheduling connects them to live scoring sessions so results record automatically.
+- **Tournaments** — manage tournament brackets, pool play, and final placement.
+- **Practices** — schedule one-off or recurring practices with focus area tags, training plan links, and notes. Visible to all team members; coaches can create, edit, complete, and cancel.
 
 ## Scheduling a Game
 

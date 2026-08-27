@@ -160,7 +160,8 @@ export default defineConfig({
             { text: 'Overview', link: '/schedule/' },
             { text: 'Scheduling games', link: '/schedule/scheduling-games' },
             { text: 'Tournament management', link: '/schedule/tournaments' },
-            { text: 'Recording results', link: '/schedule/recording-results' }
+            { text: 'Recording results', link: '/schedule/recording-results' },
+            { text: 'Scheduling practices', link: '/schedule/scheduling-practices' }
           ]
         }
       ],
