@@ -33,7 +33,9 @@ export default defineConfig({
           { text: 'Lineup Builders', link: '/lineup/' },
           { text: 'Scouting Reports', link: '/scouting/' },
           { text: 'Import from GameChanger', link: '/import/' },
-          { text: 'FAQ', link: '/faq/' }
+          { text: 'FAQ', link: '/faq/' },
+          { text: 'Terms of Service', link: '/terms/' },
+          { text: 'Privacy Policy', link: '/privacy/' }
         ]
       },
       { text: 'playlytics.app', link: 'https://playlytics.app' }
@@ -208,6 +210,12 @@ export default defineConfig({
             { text: 'Troubleshooting', link: '/faq/troubleshooting' }
           ]
         }
+      ],
+      '/terms/': [
+        { text: 'Terms of Service', items: [{ text: 'Terms of Service', link: '/terms/' }] }
+      ],
+      '/privacy/': [
+        { text: 'Privacy Policy', items: [{ text: 'Privacy Policy', link: '/privacy/' }] }
       ]
     },
 
