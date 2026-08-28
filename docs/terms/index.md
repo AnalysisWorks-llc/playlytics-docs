@@ -60,7 +60,7 @@ Subscriptions are billed in advance on a monthly or annual basis. All payments a
 
 ### 4.4 Cancellation
 
-You may cancel your subscription at any time through your account settings or by contacting support@playlytics.app. Cancellation takes effect at the end of the current billing period. We do not provide refunds for partial billing periods except where required by law.
+You may cancel your subscription at any time through your account settings or by contacting support@analysisworks-llc.com. Cancellation takes effect at the end of the current billing period. We do not provide refunds for partial billing periods except where required by law.
 
 ### 4.5 Price Changes
 
@@ -206,7 +206,7 @@ We reserve the right to modify or discontinue the Service or any part thereof at
 
 We may suspend or terminate your account and access to the Service at any time, with or without cause, with or without notice, effective immediately. Upon termination, your right to use the Service ceases immediately. Provisions that by their nature should survive termination shall survive, including Sections 9, 10, 11, 12, and 15.
 
-You may terminate your account at any time by contacting support@playlytics.app.
+You may terminate your account at any time by contacting support@analysisworks-llc.com.
 
 \---
 
@@ -226,7 +226,7 @@ Nothing in this section prevents either party from seeking injunctive or other e
 * **Severability:** If any provision of these Terms is found invalid, the remaining provisions remain in full force.
 * **Waiver:** Our failure to enforce any provision is not a waiver of our right to do so later.
 * **Assignment:** You may not assign your rights under these Terms without our written consent. We may assign our rights without restriction.
-* **Contact:** AnalysisWorks LLC · support@playlytics.app · playlytics.app
+* **Contact:** AnalysisWorks LLC · support@analysisworks-llc.com · playlytics.app
 
 \---
 

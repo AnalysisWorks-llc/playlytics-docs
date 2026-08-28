@@ -104,9 +104,9 @@ The Service is designed for use by adult coaches and parents who may enter data 
 * You represent that you have obtained any necessary parental consents required by applicable law
 * You are responsible for ensuring that data about minors is entered and used appropriately
 
-If you believe we have inadvertently collected personal information directly from a child under 13 without appropriate consent, please contact us at support@playlytics.app and we will promptly delete such information.
+If you believe we have inadvertently collected personal information directly from a child under 13 without appropriate consent, please contact us at support@analysisworks-llc.com and we will promptly delete such information.
 
-**For California users:** If you are a California resident under the age of 18 and have registered for the Service, you may request removal of content you have publicly posted by contacting support@playlytics.app.
+**For California users:** If you are a California resident under the age of 18 and have registered for the Service, you may request removal of content you have publicly posted by contacting support@analysisworks-llc.com.
 
 \---
 
@@ -188,15 +188,15 @@ Depending on your location, you may have the following rights regarding your per
 
 **California Residents (CCPA):** California residents have additional rights including the right to know what personal information is collected, the right to know if personal information is sold or disclosed and to whom, the right to opt out of the sale of personal information (we do not sell personal information), and the right to non-discrimination for exercising privacy rights.
 
-To exercise any of these rights, contact us at support@playlytics.app. We will respond within 30 days.
+To exercise any of these rights, contact us at support@analysisworks-llc.com. We will respond within 30 days.
 
 \---
 
 ## 10\. Account Deletion and Data Export
 
-**To delete your account:** Contact support@playlytics.app with the subject line "Account Deletion Request." We will permanently delete your account and associated data within 30 days, except for data we are required to retain for legal or compliance purposes.
+**To delete your account:** Contact support@analysisworks-llc.com with the subject line "Account Deletion Request." We will permanently delete your account and associated data within 30 days, except for data we are required to retain for legal or compliance purposes.
 
-**To export your data:** Contact support@playlytics.app with the subject line "Data Export Request." We will provide an export of your data in CSV format within 30 days.
+**To export your data:** Contact support@analysisworks-llc.com with the subject line "Data Export Request." We will provide an export of your data in CSV format within 30 days.
 
 \---
 
@@ -241,7 +241,7 @@ Your continued use of the Service after notification of changes constitutes acce
 If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
 **AnalysisWorks LLC**
-Email: support@playlytics.app
+Email: support@analysisworks-llc.com
 Website: playlytics.app
 
 For privacy-specific inquiries, please use the subject line "Privacy Request" so we can route your inquiry appropriately.
