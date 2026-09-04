@@ -24,14 +24,48 @@ The donut chart shows the breakdown of ground balls, line drives, and fly balls.
 
 Hard hit rate tracks the percentage of at-bats where the ball was hit with authority. This is a quality-of-contact metric independent of results.
 
-## Key Stats
+## Season Totals
+
+The season totals card shows cumulative stats for the selected date range and event filter.
 
 | Stat | Description |
 |------|-------------|
-| BA | Batting Average — hits ÷ at-bats |
-| OBP | On-Base Percentage — times on base ÷ plate appearances |
-| SLG | Slugging Percentage — total bases ÷ at-bats |
+| AB | At-bats |
+| H | Total hits (singles + doubles + triples + home runs) |
+| 2B | Doubles |
+| 3B | Triples |
 | HR | Home runs |
 | RBI | Runs batted in |
-| K% | Strikeout rate |
-| BB% | Walk rate |
+| BB | Walks |
+| K | Strikeouts |
+| HBP | Hit by pitch |
+| SAC | Sacrifice bunts and flies |
+| SB | Stolen bases |
+| CS | Caught stealing |
+
+::: tip Reading the hit breakdown
+**H** is total hits — the standard baseball convention. **2B**, **3B**, and **HR** break out the extra-base portion. Singles can be derived as H − 2B − 3B − HR.
+:::
+
+## Rate Stats
+
+| Stat | Description |
+|------|-------------|
+| BA | Batting Average — H ÷ AB |
+| OBP | On-Base Percentage — (H + BB + HBP) ÷ (AB + BB + HBP) |
+| SLG | Slugging Percentage — total bases ÷ AB. Total bases = 1×1B + 2×2B + 3×3B + 4×HR |
+| OPS | On-Base Plus Slugging — OBP + SLG |
+
+## Quality At-Bat Percentage (QAB%)
+
+QAB% measures how often a batter has a productive plate appearance regardless of result. An at-bat qualifies as a QAB when any of the following occur:
+
+- Hit
+- Walk or HBP
+- Hard hit ball
+- Long at-bat (6+ pitches)
+- Sacrifice
+- RBI
+- Reached on error
+
+A QAB% above the age-group threshold (shown on the analytics screen) indicates a consistently productive hitter.

@@ -49,12 +49,17 @@ The location grid represents the strike zone and surrounding ball areas from the
 | HBP | Hit by pitch |
 | WP | Wild pitch |
 | PB | Passed ball |
+| Pick Off | Runner picked off — automatically increments the out count |
 
 ## Strikeout and Walk Buttons
 
 The **K** (strikeout) and **BB** (walk) buttons record the at-bat outcome on the most recent pitch record. They do **not** create a new pitch — they tag the last pitch as the at-bat ending pitch.
 
 Always log the actual final pitch before tapping K or BB.
+
+## Pickoff
+
+Tap **Pick Off** to record a pickoff attempt. A successful pickoff automatically increments the out count and is reflected in game out tracking. The out is credited to the pitcher.
 
 ## Pitcher Stats Display
 

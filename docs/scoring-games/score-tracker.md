@@ -2,9 +2,14 @@
 
 The score and inning tracker appears on the Game Hub and keeps a running record of the game situation.
 
-## Score Entry
+## Automatic Score Updates
 
-Tap the score for either team to edit it. Scores can be updated at any point during the game.
+The score updates automatically in two situations:
+
+- **Home run** — all runners on base plus the batter score. The score increments immediately when HR is logged in the At-Bat Logger.
+- **Runner scores** — when the Baserunning Logger records a runner scoring (via Score action or Caught Stealing → scored), your team's score increments automatically.
+
+You can also tap the score directly to edit it manually at any time.
 
 ## Inning Tracker
 
@@ -12,6 +17,11 @@ The inning tracker shows:
 - **Inning number** — tap + or - to adjust
 - **Top or Bottom** — tap to toggle between top and bottom of the inning
 - **Out indicators** — three circles representing outs. Tap to fill each circle as outs are recorded.
+
+Outs are also incremented automatically when:
+- The Fielding Logger records an out (via the OUT button)
+- The Baserunning Logger records a caught stealing, out on the bases, or pickoff
+- The Pitching Logger records a strikeout (K button) or pickoff
 
 When the **third out** is recorded:
 - If in the top of the inning: automatically switches to the bottom of the inning, resets outs to zero
